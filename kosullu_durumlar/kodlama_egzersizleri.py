@@ -63,7 +63,7 @@ def problem3():
 
         Final toplam notun %40'ına etki edecek.
 
-
+        
         Toplam Not >=  90 -----> AA
 
         Toplam Not >=  85 -----> BA
