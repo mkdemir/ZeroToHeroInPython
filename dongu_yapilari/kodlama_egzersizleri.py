@@ -78,7 +78,52 @@ def atm_machine():
             print("Invalid Operation")
             pass
 
-            
+def factorial():
+
+    print("""
+    Factorial Bulma
+    
+    Çıkmak için q'ya basınız
+    """)
+    
+    # print(*range(2,6))
+
+    while True:
+        number = input("Number: ")
+        if (number == "q"):
+            print("Program Terminated")
+            break
+        else:
+            number = int(number)
+
+            factorial_temp = 1
+
+            for i in range(2, number+1):
+                print(f"Faktöriyel: {factorial_temp}; i: {i}")
+                factorial_temp *= i
+            print("**************************")
+            print("Faktöriyel: ", factorial_temp)
+
+def fibonacci():
+    """
+    # For Döngüsü ile Fibonacci Serisi
+
+    Fibonacci Seri yeni bir sayıyı önceki iki sayının toplamı şeklinde oluşturur.
+    1,1,2,3,5,8,13.....
+    """
+    temp_a = 1
+    temp_b = 1
+
+    fibonacci_list = [temp_a,temp_b]
+
+    for i in range(10):
+        print(f"i: {i}. a: {temp_a}; b: {temp_b}")
+        temp_a, temp_b = temp_b, temp_a + temp_b
+        fibonacci_list.append(temp_b)
+    print(fibonacci_list,)
+
 if __name__  == "__main__":
     # user__login()
-    atm_machine()
+    # atm_machine()
+    # factorial()
+    fibonacci()
