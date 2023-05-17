@@ -5,7 +5,7 @@ def user__login():
     User Login Programing
     ************************
           """)
-    
+   
     sys_username = "mkdemir"
     sys_password = "12345"
 
@@ -120,7 +120,7 @@ def fibonacci():
         print(f"i: {i}. a: {temp_a}; b: {temp_b}")
         temp_a, temp_b = temp_b, temp_a + temp_b
         fibonacci_list.append(temp_b)
-    print(fibonacci_list,)
+    print(fibonacci_list)
 
 if __name__  == "__main__":
     # user__login()
