@@ -45,3 +45,6 @@ def main():
 
 if __name__  == '__main__':
     main()
+
+# Binary search kullanarak sonucu rahat bir şekilde bulabilirsiniz. 
+# 1 ile 1000 arasındaki bir sayıyı "Binary Search" ile aslında en geç 10 adımda bulabiliriz.
