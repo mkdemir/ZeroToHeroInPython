@@ -1,9 +1,7 @@
 """
-# List Comprehension
+# Liste Kapsamı (List Comprehension)
 
-
-Bu konuda listeleri üretmek ve oluşturmak Pythonda çok pratik bir yöntem olan "List Comprehension" konusunu öğreneceğiz. Biliyorsunuz Pythonda bircok
-işimizi çok kısa kodlar ile halledebiliyoruz, Ancak kodları daha da kısaltmak ve pratik yontemler kullanmak her zaman isteriz. Şimdi öğreneceklerimizle list comprehension'ı anlamaya çalışalım.
+Bu konuda, Pythonda listeleri üretmek ve oluşturmak için oldukça pratik bir yöntem olan "List Comprehension" konusunu öğreneceğiz. Biliyorsunuz, Python'da birçok işi kısa kodlarla halledebiliyoruz. Ancak kodları daha da kısaltmak ve pratik yöntemler kullanmak her zaman tercih edilir. Şimdi, öğreneceklerimizle list comprehension'ı anlamaya çalışalım.
 """
 
 # Listelerdeki append metodunu hatırlayalım.

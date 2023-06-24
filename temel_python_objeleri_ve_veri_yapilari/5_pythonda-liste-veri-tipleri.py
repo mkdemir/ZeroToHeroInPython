@@ -91,7 +91,6 @@ liste.append("Kaan")
 print(f'liste: {liste}')
 
 # pop metodu: İçine değer vermezsek listenin son indeksindeki elemanı, değer verirsek verdiğimiz değere karşılık gelen indeksteki elemanı listeden atar ve attığı elemanı ekrana basar.
-
 liste = [1, 2, 3, 4, 5, 6]
 liste.pop()
 print(liste)

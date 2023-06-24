@@ -31,7 +31,6 @@ print(type(sozluk2))
 print(sozluk2)
 
 # Sözlük Değerlerine Erişmek ve Sözlüğe Değer Eklemek: Sözlük veritipinin gerçek hayattaki sözlüklere çok benzediğini söylemiştik. Öyleyse bir değeri (value) elde etmek için, indeksleri değil anahtarları (key) kullanacağız.
-
 print(f"sozluk1['bir']: {sozluk1['bir']}")
 try:
     print('sozluk1["on"]: {}'.format(sozluk1["on"]))
