@@ -3,6 +3,9 @@
 Zero to Hero in Python, Python programlamanın temellerinden başlayıp ileri düzey konulara kadar ilerleyen kapsamlı bir kılavuzdur. 
 
 Bu repo, Python programlama kavramları ve tekniklerinde uzmanlaşmanıza yardımcı olmak için pratik örnekler, uygulamalı alıştırmalar ve örnek projeler içerir.
+<p align="center">
+    <img src="assets/Python-Logo-1997.png" width="350">
+</p>
 
 ## İçindekiler
 
