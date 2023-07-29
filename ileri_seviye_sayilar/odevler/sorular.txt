@@ -1,0 +1,51 @@
+İleri Seviye Veri Yapıları ve Objeler
+Problem 1
+Elinizde uzunca bir string olsun.
+
+            "ProgramlamaÖdeviİleriSeviyeVeriYapılarıveObjeleripynb"
+
+
+Bu string içindeki harflerin frekansını (bir harfin kaç defa geçtiği) bulmaya çalışın.
+
+*İpucu : Kodlama egzersizimizde buna çok benzer bir şey yapmıştık.*
+
+Problem 2
+"şiir.txt" şeklinde bir dosya oluşturun ve içinde şu satırlar yer alsın.
+
+                    Memlekete sis çökmüş bir gece 
+                    Usulca yanağıma sen düşüyorsun
+                    Sabah saat dokuzu beş geçe
+                    Terk edip bizleri gidiyorsun
+                    Ayrılık bu kadar yakmamıştı içimizi
+                    Farkında mısın bilmiyorum
+                    Aldın beraberinde cumhuriyetimizi
+                    Korkunç bir veda, sararmıştı her yer
+                    Ellerini uzat tutmak istiyoruz
+                    Masmavi gözleri kaybetmiş çocuk
+                    Aldı bir sabah ruhumuzu
+                    Lakin nasıl bölmesin yokluğun uykumuzu
+
+Bu dosyanın herbir satırını okuyun. Satırların baş harflerini birbirine ekleyerek bir string oluşturun ve bu string'i ekrana yazdırın.
+
+Problem 3
+Elinizde "mailler.txt" adında , maillerin ve bazı yazıların bulunduğu bir dosya olsun. Bu dosyanın her bir satırını okuyun ve sadece mail formatına uygun olanları ekrana yazdırın.
+
+                    coskun.m.murat@gmail.com
+                    example@xyz.com
+                    mustafa.com
+                    mustafa@gmail
+                    kerim@yahoo.com
+
+                           //
+                           //
+                           //
+
+
+*İpucu: Stringlerde bulunan endswith ve find metodlarını kullanabilirsiniz.*
+
+Problem 4
+Elinizde 2 tane liste bulunsun. Bu listelerden isim ve soyisimleri birleştirerek , ekrana isim ve soyisimleri *isimlere* göre sıralı bir şekilde yazdırmaya çalışın.
+
+        isim -----> ["Kerim","Tarık","Ezgi","Kemal","İlkay","Şükran","Merve"]
+
+        soyisim ------> ["Yılmaz","Öztürk","Dağdeviren","Atatürk","Dikmen","Kaya","Polat"]
